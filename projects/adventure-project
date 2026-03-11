@@ -47,12 +47,16 @@
 
             <h1 class="margin text-center">Adventure Project using github</h1>
             <h2>Contextualization before the project</h2>
-<p>Before we were introduced to the project, we were taught many things to use for the github. First we learned how to get on cs50.dev and how we can create our own codespace. Our Sep(Software Engineering Program) teacher Mr. Mueller also taught us multiple things such as ```git add .''', '''git commit -m "message"''' , '''git push''' and '''git pull'''we can in the terminal for the upcoming project, he explained why we were learning this because we needed to know to how we can collaborate with one another and not interfere with eachother's files in the future. </p>
-            <h2>The Process and Planning<h2>
+<p>Before we were introduced to the project, we were taught many things to use for the github. First we learned how to get on cs50.dev and how we can create our own codespace. Our Sep(Software Engineering Program) teacher Mr. Mueller also taught us multiple things such as (git add ., git commit -m "message" , git push,  and git pull) we can in the terminal for the upcoming project, he explained why we were learning this because we needed to know to how we can collaborate with one another and not interfere with eachother's files in the future. </p>
+            <h2>The Process and Planning</h2>
 <p>When we were introduced to the project I was partnered with my friend Ethan, Mr mueller told the class to first plan our project on a website before we get started so that we know what to do when we are working on it we are not underprepared and we know which partner is doing which. So when me and my partner finished planning for the project we split our work into categories. I would to the right side of our adventure project and Ethan would do the left.  </p>
-           <h2> Challenges <h2>
-<p> Me and my partner 
-            <a href="#">Link about the project</a><br>
+           <h2> Challenges </h2>
+<p> Me and my partner faced multiple difficulties during the duration of the project, we didn't agree on what time we should do the project afterschool, I also saw that our work was inconsistent throughout the project, Ethan had only 1 option on the adventure, while I had 2. THis was very fruistrating to me as I saw myself doing more work than ethan and putting more effort into the project than he did. Nevertheless we decided to replan of our steps, we wouldn't erase anything but instead we would link our card to one another in order to fit into Mr. Mueller's schedule.</p>
+           <h2> Takeaways</h2> 
+  <p> I learned multiple things about me and my partner's journey as we both had our ups and downs during the project, we didn't have the same worth ethic thus we made compromises by making agreements and also making the project into both of our preferences so that we can finish the project in a orderly fashion. I learned multiple things during the project. The first one is that you can't agree on everything and which you must change yoyur point of view in order to match your partner's preferences in the project. 2, Work can not always be perfect when you don't manage your time wisely as it can affect your knowledge and also your understanding for overall the entire Unit of Github</p>
+           <h2> Next Steps</h2> 
+<p> I hope to learn from me and my partner's mistakes when we worked togerther as a group and hope that we can manage our time well as the project is also not just a assignment but a test of your time management aswell. I also wish to work with my partner again so that we both can learn more about our mistakes during future projects and hopefully do better than we what we did this time.
+<a href="#">Link about the project</a><br>
 
             <!--EXAMPLE OF PREVIEW LINK-->
             <!--<a href="http://yourUserName.github.io/yourRepoName">Preview</a><br>-->
